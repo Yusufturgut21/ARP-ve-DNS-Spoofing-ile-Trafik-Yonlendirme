@@ -4,11 +4,11 @@ import time
 import sys
 
 # Yapılandırma Ayarları
-hedef_ip = "10.9.37.40"       # Saldırı yapılacak cihazın IP'si
-ag_gecidi_ip = "10.9.32.1"    # Ağ geçidi IP'si
+hedef_ip = "........"       # Saldırı yapılacak cihazın IP'si
+ag_gecidi_ip = "......."    # Ağ geçidi IP'si
 ag_arayuzu = "enp0s3"         # Kullanılacak ağ arayüzü
-gercek_domain = "www.sondakika.com"  # Taklit edilecek domain
-sahte_ip = "104.21.32.1"      # Yönlendirilecek sahte IP
+gercek_domain = "......."  # Taklit edilecek domain
+sahte_ip = "......"      # Yönlendirilecek sahte IP
 
 def ip_yonlendirmeyi_aktif_et():
     try:
