@@ -1,4 +1,7 @@
 Legal Disclaimer / Yasal Sorumluluk Reddi
+
+
+
 English:
 ⚠️ WARNING: This tool is for educational purposes only and should only be used on networks you own or have explicit permission to test. Unauthorized use is illegal. 
 The developer assumes no liability for any misuse of this software. By using this tool, you agree to take full responsibility for your actions.
